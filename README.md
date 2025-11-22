@@ -20,7 +20,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 8 | **Loan Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Loan-Status-Prediction-Model) | Predicts whether a loan application will be approved or rejected. |
 | 9 | **HousePrice Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/House-Price-Prediction-Model) | Estimates house prices using regression-based ML models. |
 | 10 | **Image Classification Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model) | Classifies images into categories using a deep CNN model. |
-| 10 | **Image Classification Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model) | Classifies images into categories using a deep CNN model. |
+| 11 | **QA RAG GenAi Project** | [Code](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project) | Fetches and parses website content using a URL. |
 
 ---
 
