@@ -21,6 +21,8 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 9 | **HousePrice Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/House-Price-Prediction-Model) | Estimates house prices using regression-based ML models. |
 | 10 | **Image Classification Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Image-Classification-Model) | Classifies images into categories using a deep CNN model. |
 | 11 | **QA RAG GenAi Project** | [Code](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project) | Fetches and parses website content using a URL. |
+| 12 | **Job Placement Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) | Tells the person eligible for job or not. |
+| 13 | **Rice Disease Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | Detect the disease on the rice using picture. |
 
 ---
 
