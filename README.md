@@ -23,6 +23,8 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 11 | **QA RAG GenAi Project** | [Code](https://github.com/mirzayasirabdullahbaig07/QA-RAG-GenAi-Project) | Fetches and parses website content using a URL. |
 | 12 | **Job Placement Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) | Tells the person eligible for job or not. |
 | 13 | **Rice Disease Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | Detect the disease on the rice using picture. |
+| 14 | **SVEIR Stochastic Worm Model** | [Code](https://github.com/mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model) | Detect the worm Using Stochastic Model. |
+
 
 ---
 
