@@ -6,7 +6,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 
 ---
 
-## 📚 **Projects Overview**
+## 📚 **AI/ML Projects Overview**
 
 | # | Project Name | GitHub Repo | Description |
 |---|---------------|-------------|--------------|
