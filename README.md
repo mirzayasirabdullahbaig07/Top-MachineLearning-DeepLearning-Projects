@@ -24,7 +24,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 12 | **Job Placement Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) | Tells the person eligible for job or not. |
 | 13 | **Rice Disease Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Rice-Disease-Prediction-Model) | Detect the disease on the rice using picture. |
 | 14 | **SVEIR Stochastic Worm Model** | [Code](https://github.com/mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model) | Detect the worm Using Stochastic Model. |
-| 15 | **AgentPay-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/AgentPay) | Pay-Per-Use Generative AI Agent. |
+| 15 | **AgentPay-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/AgentPay) | Pay-Per-Use Generative AI Agent with Simulated USDC Billing. |
 
 ---
 
