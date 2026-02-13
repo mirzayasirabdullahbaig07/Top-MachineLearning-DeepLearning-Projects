@@ -27,6 +27,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 15 | **AgentPay-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/AgentPay) | Pay-Per-Use Generative AI Agent with Simulated USDC Billing. |
 | 16 | **DevBug-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/DevBug-AI) | AI tool that automatically classifies bug reports and recommends developer(s) |
 | 17 | **AuditAI  Model** | [Code](https://github.com/mirzayasirabdullahbaig07/AuditAI) | AI-powered website auditing tool that analyzes SEO, performance, accessibility |
+| 18 | **Smartscore-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI/) | Intelligent Retail Shelf Monitoring Simulation SmartStore AI |
 
 ---
 
