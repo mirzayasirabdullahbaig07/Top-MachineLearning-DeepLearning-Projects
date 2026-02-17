@@ -36,7 +36,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 - **Programming:** Python  
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM  
 - **Deep Learning:** TensorFlow, Keras, PyTorch  
-- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn,plotly
 - **Deployment:** Streamlit, GitHub Pages, Hugging Face Spaces  
 - **Version Control:** Git & GitHub  
 
