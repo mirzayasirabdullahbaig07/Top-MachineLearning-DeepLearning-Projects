@@ -1,6 +1,6 @@
 # 🚀 Top Machine Learning & Deep Learning Projects
 
-Welcome to my collection of **AI, Machine Learning, and Deep Learning projects**, all developed and deployed with real-world datasets. 
+Welcome to my collection of **AI, Machine Learning, and Deep Learning projects**, all developed and deployed with real-world datasets.
 
 Each project demonstrates model development, evaluation, and deployment — applying ML/DL algorithms to solve practical problem.
 
