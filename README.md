@@ -11,7 +11,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | # | Project Name | GitHub Repo | Description |
 |---|---------------|-------------|--------------|
 | 1 | **Breast Cancer Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Breast-Cancer-Prediction-Model) | Predicts whether a tumor is benign or malignant using diagnostic features. |
-  | 2 | **Churn Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Customer_Churn_Prediction_Model) | Predicts customer churn for telecom/financial companies using ML. |
+| 2 | **Churn Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Customer_Churn_Prediction_Model) | Predicts customer churn for telecom/financial companies using ML. |
 | 3 | **Diabetes Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/Diabetes-Prediction-Model) | Predicts the likelihood of diabetes based on medical and lifestyle inputs. |
 | 4 | **Handwritten Model** | [Code](https://github.com/mirzayasirabdullahbaig07/HandWritten-Classification-Model) | Recognizes handwritten digits using a CNN trained on the MNIST dataset. |
 | 5 | **StockMarket Prediction Model** | [Code](https://github.com/mirzayasirabdullahbaig07/StockMarket-Trend-Prediction-Model) | Predicts stock trends using time-series forecasting models. |
@@ -29,6 +29,7 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 17 | **AuditAI  Model** | [Code](https://github.com/mirzayasirabdullahbaig07/AuditAI) | AI-powered website auditing tool that analyzes SEO, performance, accessibility |
 | 18 | **Smartscore-AI Model** | [Code](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI/) | Intelligent Retail Shelf Monitoring Simulation SmartStore AI |
 | 19 | **MoltTrend-Claw Model** | [Code](https://github.com/mirzayasirabdullahbaig07/MoltTrend-Claw-AI-Model) | Autonomous Crypto Intelligence Agent built for the SURGE × OpenClaw |
+| 20 | **AI-Trading-Agents** | [Code](https://github.com/mirzayasirabdullahbaig07/AI-Trading-Agents) | Live Kraken data · GPT-4o signals · Paper trading |
 
 ---
 
