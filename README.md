@@ -31,6 +31,8 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 19 | **MoltTrend-Claw Model** | [Code](https://github.com/mirzayasirabdullahbaig07/MoltTrend-Claw-AI-Model) | Autonomous Crypto Intelligence Agent built for the SURGE × OpenClaw |
 | 20 | **AI-Trading-Agents** | [Code](https://github.com/mirzayasirabdullahbaig07/AI-Trading-Agents) | Live Kraken data · GPT-4o signals · Paper trading |
 | 21 | **EduGemma-AI-Tutor** | [Code](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) | Your adaptive AI tutor, powered by Gemma 4. Ask me anything |
+| 22 | **MoltTrend-Claw-AI-Model** | [Code](https://github.com/mirzayasirabdullahbaig07/MoltTrend-Claw-AI-Model) | Autonomous Crypto Intelligence Agent built for the SURGE |
+| 23 | **RepoPilot-AI** | [Code](https://github.com/mirzayasirabdullahbaig07/RepoPilot-AI) | AI-powered GitHub repository analyzer built for IBM Bob Hackathon 2026 |
 
 ---
 
