@@ -33,6 +33,10 @@ Each project demonstrates model development, evaluation, and deployment — appl
 | 21 | **EduGemma-AI-Tutor** | [Code](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) | Your adaptive AI tutor, powered by Gemma 4. Ask me anything |
 | 22 | **MoltTrend-Claw-AI-Model** | [Code](https://github.com/mirzayasirabdullahbaig07/MoltTrend-Claw-AI-Model) | Autonomous Crypto Intelligence Agent built for the SURGE |
 | 23 | **RepoPilot-AI** | [Code](https://github.com/mirzayasirabdullahbaig07/RepoPilot-AI) | AI-powered GitHub repository analyzer built for IBM Bob Hackathon 2026 |
+| 24 | **VanGuard** | [Code](https://github.com/mirzayasirabdullahbaig07/VanGuard) | OPEN WEB THREAT INTELLIGENCE |
+| 25 | **Gesture-Control-CV-Project** | [Code](https://github.com/mirzayasirabdullahbaig07/Gesture-Control-CV-Project) | Real-time hand gesture drawing using Python + OpenCV + MediaPipe |
+| 26 | **ActionPilot** | [Code](https://github.com/mirzayasirabdullahbaig07/actionpilot) | ActionPilot is an AI meeting execution agent |
+| 27 | **PromptGuard-AI** | [Code](https://github.com/mirzayasirabdullahbaig07/PromptGuard-AI) | Real-time AI prompt threat detection powered by RAG, Groq, and llama-3.3-70b-versatile |
 
 ---
 
